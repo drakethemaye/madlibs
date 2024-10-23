@@ -1,0 +1,12 @@
+1.) Copy & paste '…or create a new repository on the command line' box into command line.
+    - MAKE SURE YOURE IN THE RIGHT FOLDER
+
+
+2.) git add .
+    - add our code to a queue
+
+3.) git commit -m "any comment you want"
+    - add a note and verify changes
+
+4.) git push origin main
+    - send to github
